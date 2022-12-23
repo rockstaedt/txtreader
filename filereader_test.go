@@ -1,4 +1,4 @@
-package utils
+package txtreader
 
 import (
 	"github.com/stretchr/testify/assert"
